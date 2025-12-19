@@ -10,17 +10,18 @@ I specialize in building clean, scalable test automation frameworks for mobile a
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
 ![Appium](https://img.shields.io/badge/Appium-2.x-blue)
 ![JUnit5](https://img.shields.io/badge/JUnit-5-green)
 ![Allure](https://img.shields.io/badge/Allure-Reports-orange)
+![Gradle](https://img.shields.io/badge/Gradle-build-02303A?logo=gradle&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-XCUITest-black?logo=apple&logoColor=white)
+
 
 - **Java 21**
 - **Appium 2.x**
