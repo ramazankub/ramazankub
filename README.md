@@ -80,16 +80,15 @@ I specialize in building clean, scalable test automation frameworks for mobile a
 
 <p align="left">
   <a href="https://github.com/ramazankub">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/GitHub-ramazankub-black?logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/RKubanov_QA">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" width="30" height="30"/>
+  <a href="https://t.me/USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-@USERNAME-26A5E4?logo=telegram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ramazan-kubanov/">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="30" height="30"/>
+  <a href="https://www.linkedin.com/in/USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Ramazan-blue?logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ⭐ *Open to interesting projects and professional growth in mobile automation*
+
