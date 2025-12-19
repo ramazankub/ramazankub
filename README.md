@@ -89,11 +89,11 @@ I specialize in building clean, scalable test automation frameworks for mobile a
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/USERNAME">
+  <a href="https://t.me/RKubanov_QA">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/USERNAME">
+  <a href="https://www.linkedin.com/in/ramazan-kubanov/">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="30" height="30"/>
   </a>
 </p>
