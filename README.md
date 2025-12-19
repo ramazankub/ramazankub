@@ -82,10 +82,10 @@ I specialize in building clean, scalable test automation frameworks for mobile a
   <a href="https://github.com/ramazankub">
     <img src="https://img.shields.io/badge/GitHub-ramazankub-black?logo=github&logoColor=white"/>
   </a>
-  <a href="https://t.me/USERNAME">
+  <a href="https://t.me/RKubanov_QA">
     <img src="https://img.shields.io/badge/Telegram-@USERNAME-26A5E4?logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/USERNAME">
+  <a href="https://www.linkedin.com/in/ramazan-kubanov/">
     <img src="https://img.shields.io/badge/LinkedIn-Ramazan-blue?logo=linkedin&logoColor=white"/>
   </a>
 </p>
