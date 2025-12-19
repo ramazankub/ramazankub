@@ -9,16 +9,19 @@ I specialize in building clean, scalable test automation frameworks for mobile a
 
 ## 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-21-orange)
-![Appium](https://img.shields.io/badge/Appium-2.x-green)
-![Android](https://img.shields.io/badge/Android-UIAutomator2-brightgreen)
-![JUnit](https://img.shields.io/badge/JUnit-5-blue)
-![Gradle](https://img.shields.io/badge/Gradle-Build-lightgrey)
-![Allure](https://img.shields.io/badge/Allure-Reports-yellow)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appium.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/junit5.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/allure.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
 - **Java 21**
 - **Appium 2.x (UIAutomator2)**
-- Android SDK / Emulator / Real devices
+- Android SDK (Emulator / Real devices)
 - JUnit 5
 - Selenide Appium
 - Gradle
@@ -39,7 +42,7 @@ I specialize in building clean, scalable test automation frameworks for mobile a
 - No hardcoded waits, explicit conditions only
 
 👉 **Repository:**  
-https://github.com/ramazankub/Android_Sauce_Labs
+🔗 https://github.com/ramazankub/Android_Sauce_Labs
 
 ---
 
@@ -50,14 +53,14 @@ https://github.com/ramazankub/Android_Sauce_Labs
 - Maintainable Page Object design
 - Readable and scalable test code
 - Proper test isolation
-- Real-world automation practices (not demo-only code)
+- Real-world automation practices
 
 ---
 
 ## 📌 Currently Learning / Improving
 
 - Advanced Appium gestures and W3C Actions
-- Mobile test performance and stability
+- Mobile test stability and performance
 - CI integration for mobile automation
 - Deeper Java fundamentals for test frameworks
 
@@ -65,11 +68,18 @@ https://github.com/ramazankub/Android_Sauce_Labs
 
 ## 📬 Contacts
 
-- GitHub: https://github.com/ramazankub
-- Telegram: *(add if you want)*
-- LinkedIn: *(add if you want)*
-
----
+<p align="left">
+  <a href="https://github.com/ramazankub">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/USERNAME">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/USERNAME">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="30" height="30"/>
+  </a>
+</p>
 
 ⭐ *Open to interesting projects and professional growth in mobile automation*
-
