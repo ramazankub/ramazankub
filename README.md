@@ -1,27 +1,39 @@
 ## 👋 Hi, I'm Ramazan
 
 **QA Automation Engineer (Java / Mobile)**  
-Android Automation • Appium • UIAutomator2 • JUnit 5
+Android & iOS Automation • Appium • UIAutomator2 • XCUITest • JUnit 5
 
-I specialize in building clean, scalable test automation frameworks for mobile applications, with a strong focus on Android UI automation, test architecture, and maintainability.
+I specialize in building clean, scalable test automation frameworks for mobile applications, with a strong focus on cross-platform mobile automation, test architecture, and maintainability.
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="left">
+  <!-- Languages & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/>
+
+  <!-- Build & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appium.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/junit5.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/allure.svg" width="40" height="40"/>
+
+  <!-- OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/macos/macos-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+  <!-- VCS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
 - **Java 21**
-- **Appium 2.x (UIAutomator2)**
-- Android SDK (Emulator / Real devices)
+- **Appium 2.x**
+- **Android (UIAutomator2)**
+- **iOS (XCUITest)**
+- Android SDK / iOS Simulator / Real devices
 - JUnit 5
 - Selenide Appium
 - Gradle
@@ -46,23 +58,27 @@ I specialize in building clean, scalable test automation frameworks for mobile a
 
 ---
 
-## 🧠 What I Focus On
+### 🍎 iOS Mobile Automation (Appium)
+**Tech:** Java, Appium 2.x, XCUITest, JUnit 5, Gradle  
 
-- Clean test architecture
-- Stable mobile UI automation
-- Maintainable Page Object design
-- Readable and scalable test code
-- Proper test isolation
-- Real-world automation practices
+- Shared cross-platform automation approach
+- Page Object–based architecture
+- iOS capabilities and simulator configuration
+- Focus on clean and maintainable test design
+
+👉 **Repository:**  
+🔗 *Coming soon*
 
 ---
 
-## 📌 Currently Learning / Improving
+## 🧠 What I Focus On
 
-- Advanced Appium gestures and W3C Actions
-- Mobile test stability and performance
-- CI integration for mobile automation
-- Deeper Java fundamentals for test frameworks
+- Clean and scalable mobile test architecture
+- Cross-platform automation (Android / iOS)
+- Stable and maintainable UI tests
+- Readable Page Object design
+- Proper test isolation and reusability
+- Real-world automation practices
 
 ---
 
